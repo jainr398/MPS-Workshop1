@@ -1,0 +1,182 @@
+/* FIRST ITERATION */
+
+body.rajlaxmi-1 {
+  background: #999 ;
+  font-family: 'Notable', sans-serif;
+  margin: 360px ;
+  text-align: center;
+}
+body.rajlaxmi-1 .one {
+  font-family: ;
+  font-size: 150px;
+  font-weight: ;
+  text-decoration: line-through;
+  text-align: left;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.rajlaxmi-1 .two {
+  font-family: ;
+  font-size: 90px;
+  font-weight: ;
+  text-decoration: none;
+  text-align: ;
+  padding: ;
+  color: white ;
+  opacity: ;
+  font-style: Italic;
+}
+body.rajlaxmi-1 .three{
+  font-family: ;
+  font-size: 55px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: left;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+body.rajlaxmi-1 .four{
+  font-family: ;
+  font-size: 30px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: center ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.rajlaxmi-2 {
+  background: black;
+  font-family: 'Farro', sans-serif;
+  font-size: 120px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: center;
+  padding: ;
+  color: white;
+  opacity: ;
+}
+body.rajlaxmi-2 .one {
+  font-family: ;
+  font-size: 90px;
+  font-weight: ;
+  text-decoration: underline;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: 0.7;
+  transform: rotate(25deg);
+
+}
+body.rajlaxmi-2 .two {
+  font-family: ;
+  font-size: 160px;
+  font-style: italic ;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: ;
+  padding: ;
+  color: pink;
+  opacity: ;
+  transform: rotate(130deg);
+  text-transform: uppercase;
+}
+body.rajlaxmi-2 .three{
+  font-family: ;
+  font-size: 30px;
+  font-weight: ;
+  text-decoration: underline;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+  transform: rotate(20deg);
+}
+
+}
+body.rajlaxmi-2 .four{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: overline;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+  transform: rotate(210deg);
+}
+
+/* THIRD ITERATION */
+
+
+body.rajlaxmi-3 {
+  font-family: 'Futura', sans-serif;
+  font-size: 150px;
+  font-weight: bold;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: WHITE;
+  opacity: ;
+  background-color: blue;
+  text-transform: uppercase;
+  line-height: 30px;
+}
+
+body.rajlaxmi-3 .one {
+  font-family: ;
+  font-size: 40px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: left;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.rajlaxmi-3 .two {
+  font-family: ;
+  font-size: ;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: ;
+  text-align: right;
+  text-shadow: 5px 5px 3px red, 3px 3px 5px red;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.rajlaxmi-3 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: line-through;
+  text-align: center;
+  padding: ;
+  color: ;
+  opacity: ;
+  transform: rotate(90deg);
+}
+
+body.rajlaxmi-3 .four{
+  font-family: ;
+  font-size: 40px;
+  font-weight: ;
+  text-decoration: ;
+  text-align: right;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
